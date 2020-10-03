@@ -1,2 +1,0 @@
-# cautious-eureka
-Coin
